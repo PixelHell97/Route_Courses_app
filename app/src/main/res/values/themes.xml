@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.RouteCourses" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Theme.RouteCourses" parent="Base.Theme.RouteCourses" />
+
+</resources>
